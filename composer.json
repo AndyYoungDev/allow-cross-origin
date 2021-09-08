@@ -1,0 +1,24 @@
+{
+    "name": "andy/allow-cross-origin",
+    "description": "一行代码解决跨域问题",
+    "autoload": {
+        "psr-4": {
+            "Andy\\AllowCrossOrigin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andy",
+            "email": "283598349@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "keywords": [
+        "PHP",
+        "跨域",
+        "allow-cross-origin",
+        "cross-origin",
+        "CROS"
+    ],
+    "require": {}
+}
